@@ -1,0 +1,17 @@
+Store - Store Numbers ranging from 1 to 45
+Date - The Week of Sales. It is in the format of dd-mm-yyyy. The date starts from 05-02-2010
+Weekly_Sales - The sales of the given store in the given week
+Holiday_Flag - If the week has a special Holiday or not. 1-The week has a Holiday 0-Fully working week Holiday events is given in the description.
+Temperature - Average Temperature of the week of sales
+Fuel_Price -  Price of the Fuel in the region of the given store
+CPI - Customer Price Index
+Unemployment - Unemployment of the given store region
+
+Store - 스토어 넘버
+Date - 날짜
+Weekly_Sales - 해당 주 매장 매출
+Holiday_Flag - 그 주에 특별한 공휴일이 있는지 없는지. 1-주에는 휴일이 있습니다. 0-완전한 근무 주 휴일 이벤트는 설명에 나와 있습니다.
+Temperature - 그주 평균 온도
+Fuel_Price -  해당 지역 지역의 기름값
+CPI - 고객 물가 지수
+Unemployment - 매장 지역 실업률
